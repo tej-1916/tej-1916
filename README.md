@@ -55,42 +55,18 @@ current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,bash,git,github,fastapi,postgres,docker,linux,opencv,grafana&theme=dark" />
 
-![Python](https://img.shields.io/badge/PYTHON-667eea?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-764ba2?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-4facfe?style=for-the-badge&logo=gnubash&logoColor=white)
+**Niche tools without a standard logo:**
 
-**Version Control**
-
-![Git](https://img.shields.io/badge/GIT-667eea?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-764ba2?style=for-the-badge&logo=github&logoColor=white)
-
-**Backend & Data**
-
-![FastAPI](https://img.shields.io/badge/FASTAPI-4facfe?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-667eea?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-764ba2?style=for-the-badge&logo=supabase&logoColor=white)
-
-**AI / Agents**
-
-![n8n](https://img.shields.io/badge/N8N-4facfe?style=for-the-badge&logo=n8n&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LANGGRAPH-667eea?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/OLLAMA-764ba2?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-4facfe?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Security / Red-Teaming**
-
-![Linux](https://img.shields.io/badge/LINUX-667eea?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-764ba2?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/NMAP-4facfe?style=for-the-badge&logo=nmap&logoColor=white)
-
-**Infra / Deployment**
-
-![Docker](https://img.shields.io/badge/DOCKER-667eea?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-764ba2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/PYTEST-4facfe?style=for-the-badge&logo=pytest&logoColor=white)
-![Grafana](https://img.shields.io/badge/GRAFANA-667eea?style=for-the-badge&logo=grafana&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-764ba2?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-667eea?style=flat-square&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-4facfe?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/OLLAMA-764ba2?style=flat-square&logo=ollama&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-667eea?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/NMAP-4facfe?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-764ba2?style=flat-square&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/PYTEST-667eea?style=flat-square&logo=pytest&logoColor=white)
 
 </div>
 
