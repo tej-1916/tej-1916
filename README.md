@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Tej%20Sagar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Adversarial+AI+%26+Red-Teaming;Building+Adversyn;Linux+%2F+Ubuntu+by+default;&font=Fira%20Code&center=true&width=500&height=45&color=764ba2&vCenter=true&size=24" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI+%2F+ML+Engineer;Adversarial+AI+%26+Red-Teaming;Building+Adversyn;Linux+by+default,+always;&font=Fira%20Code&center=true&width=500&height=45&color=764ba2&vCenter=true&size=24" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=tej-1916&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="profile views"/>
 
@@ -45,7 +45,7 @@ current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="90"/>
 
-**Linux / Ubuntu — every project starts and runs here.**
+**Linux — every project starts and runs here.**
 
 </div>
 
@@ -55,7 +55,42 @@ current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,bash,opencv,postgres,docker,git,grafana,linux&theme=dark" />
+**Languages**
+
+![Python](https://img.shields.io/badge/PYTHON-667eea?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-764ba2?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4facfe?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Version Control**
+
+![Git](https://img.shields.io/badge/GIT-667eea?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-764ba2?style=for-the-badge&logo=github&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-4facfe?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-667eea?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-764ba2?style=for-the-badge&logo=supabase&logoColor=white)
+
+**AI / Agents**
+
+![n8n](https://img.shields.io/badge/N8N-4facfe?style=for-the-badge&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-667eea?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/OLLAMA-764ba2?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-4facfe?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Security / Red-Teaming**
+
+![Linux](https://img.shields.io/badge/LINUX-667eea?style=for-the-badge&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-764ba2?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/NMAP-4facfe?style=for-the-badge&logo=nmap&logoColor=white)
+
+**Infra / Deployment**
+
+![Docker](https://img.shields.io/badge/DOCKER-667eea?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-764ba2?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/PYTEST-4facfe?style=for-the-badge&logo=pytest&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-667eea?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -83,6 +118,16 @@ current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 <img src="https://raw.githubusercontent.com/tej-1916/tej-1916/output/github-contribution-grid-snake.svg" width="98%"/>
 
 <sub>⚠️ This snake animation needs a one-time setup — see note below the footer.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect
+
+[![Email](https://img.shields.io/badge/EMAIL-tejsagar111%40gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejsagar111@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
 
