@@ -57,7 +57,7 @@ current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 
 <img src="https://skillicons.dev/icons?i=python,java,bash,git,github,fastapi,postgres,docker,linux,opencv,grafana&theme=dark" />
 
-**Niche tools without a standard logo:**
+**Niche tools :**
 
 ![Supabase](https://img.shields.io/badge/SUPABASE-764ba2?style=flat-square&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/N8N-667eea?style=flat-square&logo=n8n&logoColor=white)
@@ -93,7 +93,7 @@ current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 
 <img src="https://raw.githubusercontent.com/tej-1916/tej-1916/output/github-contribution-grid-snake.svg" width="98%"/>
 
-<sub>⚠️ This snake animation needs a one-time setup — see note below the footer.</sub>
+<sub>⚠️  </sub>
 
 </div>
 
