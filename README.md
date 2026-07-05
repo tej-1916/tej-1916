@@ -21,7 +21,7 @@ focus:
   - 🧠 AI / ML Engineering
   - 🛡️ Adversarial AI & Red-Teaming
   - 🔐 Cybersecurity & Ethical Hacking
-  - 🏗️ Building products, not just projects
+  - 🏗️ Building products
 current_project: 🔓 Adversyn — open-source AI security & red-teaming venture
 ```
 
